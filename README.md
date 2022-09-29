@@ -14,3 +14,7 @@ This project aims to reverse a sample video using openCV
 
 ## Input
 Use the sample.mp4 as the input video
+
+
+https://user-images.githubusercontent.com/50231750/193104802-e18d9de7-3568-4e1d-96e6-1ee8fdc720c8.mp4
+
