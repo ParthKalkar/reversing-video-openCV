@@ -11,3 +11,6 @@ This project aims to reverse a sample video using openCV
 ## Stack
 1. Python 
 2. openCV 
+
+## Input
+Use the sample.mp4 as the input video
